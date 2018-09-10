@@ -107,6 +107,8 @@ std::string fullscreen_option = " -fullscreen:0 ";
 
 std::string language_option = " -language:en ";
 
+std::string lang;
+
 int main(int argc, char** argv)
 {
 	auto warframe_exe = WARFRAME_64_EXE;
