@@ -154,7 +154,7 @@ int main(int argc, char** argv)
 				<< "  -R  Redownload the entire game" << std::endl
 				<< "  -v  Print more verbose output" << std::endl
 				<< "  -32 Launch the 32-bit binary instead of the 64-bit one" << std::endl
-				<< "  -fullscreen Launching the game in full-screen" << std::endl
+				<< "  -fullscreen Launch the game in full-screen" << std::endl
 				<< "  -language:xx changes the game's language. example: -language:en" << std::endl
 				<< "               supported languages: de,en,es,fr,it,ja,ko,pl,pt,ru,tc,uk,zh" << std::endl
 				<< "  -h  Get this text" << std::endl;
