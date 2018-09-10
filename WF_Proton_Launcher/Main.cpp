@@ -429,7 +429,7 @@ int main(int argc, char** argv)
 	}
 
 	if (do_launch)
-		launch("..\\" + warframe_exe + " -silent -log:/Preprocessing.log -dx10:1 -dx11:1 -threadedworker:1 -cluster:public -language:en -fullscreen:0 " + registry_option);
+		launch("..\\" + warframe_exe + " -silent -log:/Preprocessing.log -dx10:1 -dx11:1 -threadedworker:1 -cluster:public -language:en -fullscreen:1 " + registry_option);
 
     return 0;
 }
